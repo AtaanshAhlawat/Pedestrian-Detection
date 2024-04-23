@@ -1,7 +1,7 @@
 # Pedestrian Detection Project
 
 ## Overview
-This project focuses on pedestrian detection using [insert specific method or model used]. It aims to detect pedestrians in images or videos with high accuracy.
+This project uses a pre-trained HOG + Linear SVM model for real-time pedestrian detection in images and videos. It offers high accuracy, customizable confidence thresholds, and easy integration, making it a valuable tool for various applications requiring pedestrian detection.
 
 ## Features
 - Real-time Pedestrian Detection: Detect pedestrians in real-time using a pre-trained model.
