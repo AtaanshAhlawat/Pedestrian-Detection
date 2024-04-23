@@ -4,9 +4,11 @@
 This project focuses on pedestrian detection using [insert specific method or model used]. It aims to detect pedestrians in images or videos with high accuracy.
 
 ## Features
-- Detection of pedestrians in images and videos
-- [Add any additional features]
-
+- Real-time Pedestrian Detection: Detect pedestrians in real-time using a pre-trained model.
+- Accurate Detection: Achieve high accuracy in pedestrian detection with a pre-trained HOG + Linear SVM model.
+- Customizable Confidence Thresholds: Adjust confidence levels for pedestrian detection.
+- Visual Feedback: Display bounding boxes around detected pedestrians for easy interpretation.
+  
 ## Installation
 1. Clone the repository:
    ```bash
